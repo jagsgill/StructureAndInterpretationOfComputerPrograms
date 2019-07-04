@@ -1,2 +1,0 @@
-all: 
-	scheme <HelloWorld.scm
