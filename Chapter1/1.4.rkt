@@ -17,4 +17,5 @@ Scheme/Lisps use an applicative-order evaluation model. So the procedure above w
 1. Select between + or - operator (the former if b is positive and the latter if b is negative.
 2. Evaluates operands a and b
 3. The selected operator is applied to a and b.
+4. End result is equivalent to adding the absolute value of b to a.
 |#
